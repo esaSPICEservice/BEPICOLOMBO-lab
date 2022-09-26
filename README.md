@@ -1,4 +1,4 @@
-# EBEPICOLOMBO Laboratory
+# BEPICOLOMBO Laboratory
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/esaSPICEservice/BEPICOLOMBO-lab/master?urlpath=lab/tree/index.ipynb)
 
